@@ -1,0 +1,16 @@
+Solution 1 - Using ARDUINO IDE
+
+1. Extract the Downloaded file.
+2. Open the ARDUINO IDE by clicking on ARDUINO IDE. 
+3. Then navigate to File-->Open--> Select your .ino extension file from your downloaded folder which is extracted.
+4. Debug & Upload the code  
+
+
+Solution 2 - Using VISUAL STUDIO & ARDUINO IDE
+
+1. Extract the Downloaded file.
+2. Select & Right click on .ino extension file and select " Open with " and select visual studio.
+3. Then copy the entire code.
+4. Open the ARDUINO IDE by clicking on ARDUINO IDE and create new arduino file.
+5. Paste the entire code in that 
+6. Debug & Upload the code  
