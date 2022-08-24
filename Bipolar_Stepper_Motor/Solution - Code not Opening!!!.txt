@@ -1,7 +1,7 @@
 Solution 1 - Using ARDUINO IDE
 
 1. Extract the Downloaded file.
-2. Open the ARDUINO IDE by clicking on ARDUINO IDE. 
+2. Open the ARDUINO IDE by clicking on ARDUINO IDE icon or shortcut on desktop. 
 3. Then navigate to File-->Open--> Select your .ino extension file from your downloaded folder which is extracted.
 4. Debug & Upload the code  
 
